@@ -1,3 +1,6 @@
-test.py
+constant.py
 tempCodeRunnerFile.py
 .vscode
+.gitignore
+mongodb_env
+requirements.txt
